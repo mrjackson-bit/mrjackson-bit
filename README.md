@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://sethshows.com"><img alt="Website" src="https://img.shields.io/badge/sethshows.com-1f6f78?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/seth-jackson"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/seth-jackson"><img alt="LinkedIn" src="https://www.linkedin.com/in/seth-jackson/"></a>
   <a href="mailto:sethjackson@sethshows.com"><img alt="Email" src="https://img.shields.io/badge/Email-sethjackson%40sethshows.com-444?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
